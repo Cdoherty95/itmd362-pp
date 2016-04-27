@@ -12,18 +12,15 @@ A. Photograph of the object (place in the week-13/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:This laptop has a very nice design with the silver/chrome body and backlight keyboard that makes it astetically apleasing. The laptop comes to life after the power buttion is illuminated and lights start to appear on the screen.
+* Visceral: This laptop has a very nice design with the silver/chrome body and backlight keyboard that makes it astatically pleasing. The laptop comes to life after the power button is illuminated and lights start to appear on the screen.
 
-* Behavioral:Behavioral design has to do
-with the pleasure and effectiveness of use. Here both the tilting teapot
-and my little metal ball are winners
+* Behavioral: The computer is very fast allowing for smooth operations within a performance demanding program. I become frustrated when computers lag when one is trying to work on it so a fast computer is very pleasurable to me. 
 
-* Reflective:reflective design considers
-the rationalization and intellectualization of a product. Can I tell a story
-about it? Does it appeal to my self-image, to my pride?
+* Reflective: Absolutely, this computer appeals to my self-image and pride. After spending several years with the same machine I feel I have made this my own. I still use the computer despite the damage from normal wear and tear. I have a hard time moving from one unit to the next because all of my personal information is on this computer and it has gone almost everywhere with me for the past 3 years. 
+ 
 
 C.  Emotional design qualities of the object that might be useful for Project 3/MyIIT redesign:
 
-1.
-2.
-3.
+1. Past projects that can give me ideas on how to design the site
+2. Fast processor to seamlessly design, write, and test the code
+3. Familiarity and a level of comfort that produces the best and most ideal working environment
